@@ -2,11 +2,20 @@
   text-align: center;
 }
 
+.App-header img {
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.App-header .floater {
+  padding: 5px;
+}
+
 .App-header {
   background-color: #002a7e;
   min-height: 20vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(12px + 2vmin);
