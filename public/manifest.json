@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Nick Last Crash",
+  "name": "When did Nick last crash?",
   "icons": [
     {
       "src": "favicon.ico",
