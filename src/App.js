@@ -16,7 +16,6 @@ class App extends Component {
           <iframe height='160px' width='270px' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/803880/activity-summary/63119c16f273d385e23041a35d4b09de83926ed0'></iframe>
         </header>
         <Strava />
-        <Images />
         <footer className="App-footer">
           <TimeDisplay />
         </footer>
